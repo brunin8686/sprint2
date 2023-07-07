@@ -1,0 +1,20 @@
+body {
+  background-color: #4302db;
+  color: rgb(241, 225, 0);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo {
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(241, 225, 0);
+}
+.sexta {
+  color: #fff;
+  font-size: 2em;
+}
+
+.madrugada {
+  text-align: center;
+  font-size: 15px;
+}
